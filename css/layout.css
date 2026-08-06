@@ -141,7 +141,7 @@ body {
 #main-content {
   margin: 16px 16px;
   margin-left: 30%;
-  margin-right: 50px;
+  margin-right: 25%;
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -322,6 +322,7 @@ body {
   #main-content {
     /* margin: 225px 75px;
     margin-left: 30%; */
+    margin-right: 50px;
   }
   .columns {
     flex-direction: column;
@@ -333,6 +334,7 @@ body {
   #main-content {
     /* margin: 150px 50px;
     margin-left: 30%; */
+    margin-right: 50px;
   }
 
   .columns {
